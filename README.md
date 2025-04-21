@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdul Rahman
 -  I’m interested in creating awesome projects
--  I’m currently learning java spring
+-  I’m a java developer.
 - 💞 I’m looking to collaborate on java application based projects 
 
 <!---
