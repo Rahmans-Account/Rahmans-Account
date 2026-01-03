@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdul Rahman
--  I’m like creating awesome projects
+-  I like creating awesome projects
 
 
 <!---
